@@ -16,7 +16,14 @@ It is a tiny narrow band IoT (Nb-IoT) evaluation board. It just has features whi
 ! All data pins work with 3.3V reference. Any other voltage level should harm your device.
 
 # Examples
-local host udp example (test script : https://github.com/sixfab/NB-IoT-EVB/tree/master/examples) ** tutorial (http://sixfab.com/getting-started-with-sixfab-nb-iot-evo-board/)
+** [getting started](https://github.com/sixfab/NB-IoT-EVB/blob/master/examples/gettingStartedEVB.py)  
+** [basicTutorialNBIoT](https://github.com/sixfab/NB-IoT-EVB/blob/master/examples/advancedTutorialEVB.py)   
+
+# Tutorials 
+
+** [getting started](http://sixfab.com/getting-started-with-sixfab-nb-iot-evb/)  
+** [basicTutorialNBIoT](http://sixfab.com/sixfab-nb-iot-evb-with-ultrasonic-sensor/)  
+
 
 # Applications
 * Smart farming sensor
