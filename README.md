@@ -1,5 +1,5 @@
 # NB-IoT-EVB
-This is the repository of sixfab nb-iot evaluation board.
+This is the repository of [sixfab nb-iot evaluation board](https://sixfab.com/product/nb-iot-evaluation-board/).
 
 # Product Description
 It is a tiny narrow band IoT (Nb-IoT) evaluation board. It just has features which you need to develop Nb-IoT apps, not more.
