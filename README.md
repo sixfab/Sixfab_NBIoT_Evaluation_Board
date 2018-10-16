@@ -1,4 +1,4 @@
-# NB-IoT-EVB
+# Sixfab NB-IoT Evaluation Board
 This is the repository of [sixfab nb-iot evaluation board](https://sixfab.com/product/nb-iot-evaluation-board/).
 
 # Available Libraries
